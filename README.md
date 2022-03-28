@@ -10,5 +10,6 @@ Raw and corrected data with correction python notebook
 ├── LICENSE
 ├── notebooks -- Jupyter notebooks for correcting raw data. One notebook per BioProject
 ├── raw -- Raw metadata files after corrected by curator team. No to be altered again
+├── fixed -- Contains fixed values files, not to be altered with validation
 └── README.md
 ```
